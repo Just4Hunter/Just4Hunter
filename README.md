@@ -31,14 +31,15 @@ A lightweight CORS security analyzer for bug hunters and security testers.
 
 A Caido plugin powered by `sorx` for bringing CORS analysis into the Caido workflow.
 
-## Language Skills
+## Skills
 
-```text
-Python  - Used to build security tools (comfortable)
-JS      - Used for XSS research (basic)
-VueJS   - Used to build Caido plugins (basic)
-TS      - Used to build Caido plugins (basic)
-```
+| Skill       | Usage                | Level |
+| ----------- | -------------------- | ----- |
+| Bug Hunting | Web security testing | 5/10  |
+| Python      | Security tools       | 5/10  |
+| JavaScript  | XSS research         | 3/10  |
+| VueJS       | Caido plugins        | 2/10  |
+| TypeScript  | Caido plugins        | 1/10  |
 
 ## Currently
 
