@@ -41,6 +41,12 @@ A Caido plugin powered by `sorx` for bringing CORS analysis into the Caido workf
 | VueJS       | Caido plugins        | 2/10  |
 | TypeScript  | Caido plugins        | 1/10  |
 
+## Status
+
+Taking a short break from active development.
+
+I'll still be around and working on tech-related things, but my activity will be lower for a while, with significantly fewer commits.
+
 ## Currently
 
 * Learning web application security
