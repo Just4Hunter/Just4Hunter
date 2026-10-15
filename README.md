@@ -1,5 +1,9 @@
 # Security Research | Bug Hunting | Tool Development
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 > Learn the attack surface. Understand the root cause. Build tools that solve real problems.
 
 I'm an aspiring security researcher interested in web application security, bug hunting, and security automation. I use Python and Bash to explore ideas, automate repetitive workflows, and build practical security tools.
