@@ -4,6 +4,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security-Research-8A2BE2?style=flat-square)
+![Pentesting](https://img.shields.io/badge/Pentesting-Learning-red?style=flat-square)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Research-green?style=flat-square)
+![CORS](https://img.shields.io/badge/CORS-Analysis-555?style=flat-square)
 > Learn the attack surface. Understand the root cause. Build tools that solve real problems.
 
 I'm an aspiring security researcher interested in web application security, bug hunting, and security automation. I use Python and Bash to explore ideas, automate repetitive workflows, and build practical security tools.
